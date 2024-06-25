@@ -2,7 +2,9 @@
 This project focuses on performing exploratory data analysis on a dataset containing information about global layoffs. The aim is to uncover key patterns and trends in the data, providing insights into layoffs across various industries, companies, and regions.
 
 Dataset
+
 •	File: layoffs.csv
+
 •	Columns:
  - company: Name of the company
  - location: Location of the company
